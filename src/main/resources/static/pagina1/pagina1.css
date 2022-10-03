@@ -1,0 +1,21 @@
+.titulo {
+    
+     width: 10%;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.producto {
+    
+     width: 90%;
+    height: 800vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    
+}
+
