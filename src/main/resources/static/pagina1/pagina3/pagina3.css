@@ -1,9 +1,6 @@
 .titulo{
     
-     width: 65%;
-    height: 11vh;
-    margin: auto;
-    display: flex;
+  
     align-items: center;
 }
 
@@ -12,6 +9,20 @@
     
      width: 670%;
     height: 89vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.texto {
+    
+    background-position: center;
+}
+
+.texto {
+    
+     width: 100%;
+    height: 15vh;
     margin: auto;
     display: flex;
     align-items: center;
